@@ -2,7 +2,7 @@
 
 This Power BI dashboard provides an in-depth analysis of sales and marketing performance across various channels — Online, Social Media, Outlet, and Stores. It includes KPIs, ROI metrics, sales trends, product and segment breakdowns, and customer sentiment distribution.
 
-![Dashboard Preview](./Desktop/Screenshot 2025-04-29 at 1.11.18 PM].png)
+![Dashboard Preview](./Screenshot 2025-04-29 at 1.11.18 PM].png)
 
 ---
 
